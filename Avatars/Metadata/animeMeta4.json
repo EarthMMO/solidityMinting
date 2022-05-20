@@ -1,0 +1,20 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmYDZ3aEsU9Vc8hKG41MvsHqWwVHjB4WahnCcffhbBjawT",
+    "name": "Anime Guy 5",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "burgundy"
+        },
+        {
+            "trait_type": "neck",
+            "value": "chain"
+        },
+        {
+            "trait_type": "age",
+            "value": 23,
+            "display_type": "number"
+        }
+    ]
+}

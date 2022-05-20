@@ -1,0 +1,20 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmYDZ3aEsU9Vc8hKG41MvsHqWwVHjB4WahnCcffhbBjawT",
+    "name": "Anime Guy 4",
+    "description": "",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        },
+        {
+            "trait_type": "neck",
+            "value": "tattoo"
+        },
+        {
+            "trait_type": "age",
+            "value": 25,
+            "display_type": "number"
+        }
+    ]
+}
